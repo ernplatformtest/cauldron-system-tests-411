@@ -23,17 +23,18 @@
                   "react-native-ernmovie-api@0.0.9",
                   "react-native-ernnavigation-api@0.0.4",
                   "react-native-electrode-bridge@1.5.10",
-                  "react-native@0.55.3"
+                  "react-native@0.55.3",
+                  "react-native-code-push@5.2.1"
                 ],
                 "jsApiImpls": []
               },
               "codePush": {},
-              "containerVersion": "1.0.1"
+              "containerVersion": "1.0.2"
             }
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.1"
+              "containerVersion": "1.0.2"
             }
           }
         },
