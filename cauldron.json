@@ -10,16 +10,31 @@
               "name": "1.0.0",
               "isReleased": false,
               "binary": null,
-              "yarnLocks": {},
+              "yarnLocks": {
+                "container": "754a3c0b50d94bda1fef9903b209b6ab3f2b0e81"
+              },
               "nativeDeps": [],
               "container": {
-                "miniApps": [],
-                "nativeDeps": [],
+                "miniApps": [
+                  "movielistminiapp@0.0.19"
+                ],
+                "nativeDeps": [
+                  "react-native-ernmovie-api@0.0.9",
+                  "react-native-ernnavigation-api@0.0.4",
+                  "react-native-electrode-bridge@1.5.10",
+                  "react-native@0.55.3"
+                ],
                 "jsApiImpls": []
               },
-              "codePush": {}
+              "codePush": {},
+              "containerVersion": "1.0.0"
             }
-          ]
+          ],
+          "config": {
+            "containerGenerator": {
+              "containerVersion": "1.0.0"
+            }
+          }
         },
         {
           "name": "ios",
