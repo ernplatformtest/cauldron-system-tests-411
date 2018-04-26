@@ -63,10 +63,12 @@
                   "react-native@0.55.3",
                   "react-native-code-push@5.2.1"
                 ],
-                "jsApiImpls": []
+                "jsApiImpls": [
+                  "react-native-ernmovie-api-impl-js@0.0.2"
+                ]
               },
               "codePush": {},
-              "containerVersion": "1.0.2"
+              "containerVersion": "1.0.3"
             },
             {
               "name": "2.0.0",
@@ -95,7 +97,7 @@
           ],
           "config": {
             "containerGenerator": {
-              "containerVersion": "1.0.2"
+              "containerVersion": "1.0.3"
             }
           }
         }
