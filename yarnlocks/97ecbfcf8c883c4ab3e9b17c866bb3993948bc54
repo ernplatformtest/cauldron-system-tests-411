@@ -2712,6 +2712,13 @@ morgan@^1.9.0:
     on-finished "~2.3.0"
     on-headers "~1.0.1"
 
+moviedetailsminiapp@0.0.19:
+  version "0.0.19"
+  resolved "https://registry.yarnpkg.com/moviedetailsminiapp/-/moviedetailsminiapp-0.0.19.tgz#08daa7c6718725a85c00647746c7c8c182e7ae84"
+  dependencies:
+    react "16.3.1"
+    react-native "0.55.3"
+
 movielistminiapp@0.0.19:
   version "0.0.19"
   resolved "https://registry.yarnpkg.com/movielistminiapp/-/movielistminiapp-0.0.19.tgz#dadfe91c7da42c81b8ed62df929259be59ea8ca1"
